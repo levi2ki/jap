@@ -1,0 +1,24 @@
+{
+  "name": "jap",
+  "version": "0.0.1",
+  "description": "J.A.P - just another promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levi2ki/jap.git"
+  },
+  "keywords": [
+    "promise",
+    "polyfill",
+    "self-implemented"
+  ],
+  "author": "levi2ki1988@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/levi2ki/jap/issues"
+  },
+  "homepage": "https://github.com/levi2ki/jap#readme"
+}
